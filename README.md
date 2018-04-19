@@ -6,3 +6,5 @@
 
 2.国内源设置 composer config -g repo.packagist composer https://packagist.phpcomposer.com
 
+laravel社区源 composer config -g repo.packagist composer https://packagist.laravel-china.org
+
